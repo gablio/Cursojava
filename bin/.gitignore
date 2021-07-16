@@ -1,3 +1,5 @@
+/Acceso_aplicacion.class
+/Adivina_numero.class
 /Calculos_conMath.class
 /Declaraciones_Operadores.class
 /Entrada_ejemplo2.class
@@ -8,5 +10,9 @@
 /Manipula_cadenas.class
 /PrimeraClase.class
 /Variables.class
-/Acceso_aplicacion.class
-/Adivina_numero.class
+/.classpath
+/.gitignore
+/.project
+/Uso_arrays.class
+/Uso_arrays2.class
+/Uso_arrays2bis.class
